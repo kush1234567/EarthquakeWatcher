@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="afterstatus">#ffffff</color>
+    <color name="colorPrimary">#03DAC5</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="cardView">#ffffff</color>
+    <color name="textColor">#E30B0B</color>
+    <color name="textColor1">#000000</color>
+</resources>
